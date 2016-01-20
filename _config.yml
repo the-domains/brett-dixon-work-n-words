@@ -1,0 +1,28 @@
+name: Brett Dixon work n words
+favicon: null
+layout_spectrum: 0.3687948612496257
+typography_spectrum: 0.894372402690351
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8052958524785936
+  lightness: 0.17819139757193625
+  saturation: 0.05067372089251876
+  rhythmicContrast: 0.7448879058938473
+purpose: []
