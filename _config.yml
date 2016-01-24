@@ -1,28 +1,40 @@
-name: Brett Dixon work n words
-favicon: null
-layout_spectrum: 0.3687948612496257
-typography_spectrum: 0.894372402690351
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.327957
+  lightness: 0.6200717
+  brandStrength: 0.5286738
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.8052958524785936
-  lightness: 0.17819139757193625
-  saturation: 0.05067372089251876
-  rhythmicContrast: 0.7448879058938473
-purpose: []
+  rhythmicContrast: 0.797491
+typography_spectrum: 0.02508961
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5430108
+favicon: null
+name: Brett Dixon work n words
