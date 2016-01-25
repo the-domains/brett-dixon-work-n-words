@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - fruitoftheloom
   - duration
@@ -23,25 +23,27 @@ keywords:
 description: 'This is the Professionals Collection, an exclusive offering of sweat suits that perfectly blends style and comfort to create the look of effortless success.#NeedThisSweatSuit'
 inLanguage: en
 app_links:
-  - url: 'vnd.youtube://www.youtube.com/watch?v=9O4LnJkCrmE&feature=applinks'
+  - app_store_id: '544007664'
+    app_name: YouTube
+    url: 'vnd.youtube://www.youtube.com/watch?v=9O4LnJkCrmE&feature=applinks'
     type: ios
-    app_store_id: '544007664'
+  - package: com.google.android.youtube
     app_name: YouTube
-  - url: 'vnd.youtube://www.youtube.com/watch?v=9O4LnJkCrmE&feature=applinks'
+    url: 'vnd.youtube://www.youtube.com/watch?v=9O4LnJkCrmE&feature=applinks'
     type: android
-    app_name: YouTube
-    package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=9O4LnJkCrmE&feature=applinks'
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=9O4LnJkCrmE'
 title: "Meet the Professionals Collection, the world's classiest sweat suits"
-datePublished: '2016-01-24T19:36:12.294Z'
-dateModified: '2016-01-20T18:54:00.765Z'
+datePublished: '2016-01-25T03:45:14.194Z'
+dateModified: '2016-01-25T03:45:09.780Z'
 sourcePath: _posts/2016-01-24-meet-the-professionals-collection-the-worlds-classiest-swe.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
