@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.michaelcamarra.com/toblerone#disobedient-chocolate'
 title: Toblerone
-datePublished: '2016-01-25T03:37:46.484Z'
-dateModified: '2016-01-25T03:33:00.826Z'
+datePublished: '2016-01-25T03:37:46.939Z'
+dateModified: '2016-01-25T03:33:00.384Z'
 sourcePath: _posts/2016-01-25-toblerone.md
 published: true
 inFeed: true
