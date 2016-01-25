@@ -35,7 +35,7 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=9O4LnJkCrmE'
 title: "Meet the Professionals Collection, the world's classiest sweat suits"
-datePublished: '2016-01-25T03:45:14.196Z'
+datePublished: '2016-01-25T03:45:14.266Z'
 dateModified: '2016-01-25T03:45:09.780Z'
 sourcePath: _posts/2016-01-24-meet-the-professionals-collection-the-worlds-classiest-swe.md
 published: true
