@@ -35,7 +35,7 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=y50XOQ0Pez0'
 title: 'Get cozy with the Trail Blazer sweat suit, from the Professionals Collection'
-datePublished: '2016-01-28T18:58:07.238Z'
+datePublished: '2016-01-28T18:58:07.225Z'
 dateModified: '2016-01-28T18:57:40.087Z'
 sourcePath: _posts/2016-01-24-get-cozy-with-the-trail-blazer-sweat-suit-from-the-professi.md
 published: true
