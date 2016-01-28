@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - fruitoftheloom
   - duration
@@ -23,25 +23,27 @@ keywords:
 description: 'For high-visibility affairs that place equal importance on fun, camaraderie, and fashion snobbery, the panache and flair of Trail Blazer will dominate the scene.'
 inLanguage: en
 app_links:
-  - url: 'vnd.youtube://www.youtube.com/watch?v=y50XOQ0Pez0&feature=applinks'
+  - app_store_id: '544007664'
+    app_name: YouTube
+    url: 'vnd.youtube://www.youtube.com/watch?v=y50XOQ0Pez0&feature=applinks'
     type: ios
-    app_store_id: '544007664'
+  - package: com.google.android.youtube
     app_name: YouTube
-  - url: 'vnd.youtube://www.youtube.com/watch?v=y50XOQ0Pez0&feature=applinks'
+    url: 'vnd.youtube://www.youtube.com/watch?v=y50XOQ0Pez0&feature=applinks'
     type: android
-    app_name: YouTube
-    package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=y50XOQ0Pez0&feature=applinks'
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=y50XOQ0Pez0'
 title: 'Get cozy with the Trail Blazer sweat suit, from the Professionals Collection'
-datePublished: '2016-01-24T19:36:12.290Z'
-dateModified: '2016-01-20T18:53:53.918Z'
+datePublished: '2016-01-28T18:58:07.235Z'
+dateModified: '2016-01-28T18:57:40.087Z'
 sourcePath: _posts/2016-01-24-get-cozy-with-the-trail-blazer-sweat-suit-from-the-professi.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
